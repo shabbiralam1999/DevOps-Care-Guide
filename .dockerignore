@@ -1,0 +1,9 @@
+.git
+.github
+docs
+__pycache__
+*.pyc
+.venv
+health_log.txt
+README.md
+system_health.sh
